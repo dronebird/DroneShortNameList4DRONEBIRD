@@ -11,6 +11,11 @@
 * 9とQのように、発音で区別できないケースは可能な限り減らす
 * 毎年１回以上の頻度で見直し
 
+## 使用方法
+* [こちらのリスト](https://github.com/dronebird/DroneShortNameList4DRONEBIRD/blob/main/DroneShortNameList4DRONEBIRD_v10.csv)から確認
+* CSVファイルをダウンロードして自由にお使いください。ライセンスは下記のとおり。
+
+
 ## 更新・提案方法
 * このレポジトリのIssueに提案や意見などは追記してください。
 
