@@ -17,7 +17,8 @@
 
 
 ## 更新・提案方法
-* このレポジトリのIssueに提案や意見などは追記してください。
+* このレポジトリの[Issue](https://github.com/dronebird/DroneShortNameList4DRONEBIRD/issues)に提案や意見などは追記してください。
+* [プルリクエスト](https://github.com/dronebird/DroneShortNameList4DRONEBIRD/pulls) も歓迎します。
 
 ## ライセンス
-* © DRONEBIRD/CrisisMappersJapan, CC BY 4.0
+* [© DRONEBIRD/CrisisMappersJapan, CC BY 4.0](https://github.com/dronebird/DroneShortNameList4DRONEBIRD/blob/main/LICENSE.md)
