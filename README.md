@@ -1,8 +1,7 @@
 # DroneShortNameList4DRONEBIRD
 ドローンバード流 空撮ドローン機体短縮名称コード
 
-<img width="1528" alt="スクリーンショット 2021-02-09 12 48 00" src="https://user-images.githubusercontent.com/416977/107313023-16524200-6ad5-11eb-9034-c4fa02bf93be.png">
-
+<a href="https://github.com/dronebird/DroneShortNameList4DRONEBIRD/blob/main/DroneShortNameList4DRONEBIRD_v10.csv"><img width="1528" alt="スクリーンショット 2021-02-09 12 48 00" src="https://user-images.githubusercontent.com/416977/107313023-16524200-6ad5-11eb-9034-c4fa02bf93be.png"></a>
 
 ## バージョン
 Latest version: 1.0
