@@ -1,0 +1,92 @@
+メーカー名,機種名正式名称,3文字短縮名,3文字オプション付き,使用頻度
+3DR,SOLO,3ds,,2
+3DR,H520-G,h5g,,1
+4DRC,4D-V2,4vn,,1
+AeroSence,AEROBO ,arn,,2
+AeroSense,AEROBO Wing,arw,,2
+Autel,EVOII,ev2,,3
+DJI,Flame Wheel ARF KIT,fwa,,1
+DJI,Inspire1,is1,,2
+DJI,Inspire2,is2,,3
+DJI,Mavic 2 Enterprize,m2e,,3
+DJI,Mavic 2 Pro,m2p,,3
+DJI,Mavic 2 Zoom,m2z,,3
+DJI,Matrice 300 RTK,m3r,,2
+DJI,Matrice 600 Pro,m6p,,2
+DJI,Mavic Air,ma1,,3
+DJI,Mavic Air2,ma2,,3
+DJI,MG-1,mg1,,1
+DJI,MG-1S ADVANCED,mga,,1
+DJI,MG-1 RTK,mgr,,1
+DJI,Mavic Mini,mn1,,3
+DJI,Mini 2,mn2,,3
+DJI,Matrice 200,mt2,,2
+DJI,Matrice 300,mt3,,2
+DJI,Mavic Pro,mvp,,3
+DJI,Mavic Pro Platinum ,mvp,mvp.plt,3
+DJI,Phantom 1,p1n,,1
+DJI,Phantom 2,p2n,,1
+DJI,Phantom 2 Vision,p2v,,1
+DJI,Phantom 2 Vision+,p2v,p2v.pls,1
+DJI,Phantom 3,p3n,,1
+DJI,Phantom 3 Pro,p3p,,2
+DJI,P4 Multispectral,p4m,,2
+DJI,Phantom 4,p4n,,3
+DJI,Phantom 4 Pro,p4p,,3
+DJI,Phantom 4 Pro Obsidian,p4p,p4p.obs,3
+DJI,Phantom 4 RTK,p4r,,3
+DJI,Spark,spk,,2
+DJI,Spreading Wings S1000+,sws ,,1
+DJI,Ryze TELLO,tlo,,3
+DJI,Ryze TELLO EDU,tlo,tlo.edu,3
+Doyusya,piccolo,pic,,2
+Enrote,AC940D,ac9,,1
+Enrote,AC1500,c15,,1
+Enrote,CH940,ch9,,1
+Freefly,Alta 8,a8n,,1
+Freefly,Alta 8 Pro,a8p,,1
+Freefly,Alta X,alx,,1
+Freefly,ASTRO,asn,,1
+GoPro,KARMA Light,kal,,1
+GoPro,KARMA,kan,,1
+Holly Stone,HS161,h16,,1
+Holly Stone,HS170,h17,,1
+Holly Stone,HS220,h22,,1
+Holly Stone,HS160,hs1,,1
+Holly Stone,RTF F810c,rf8,,1
+Holy Stone,HS120D,h1d,,1
+Holy Stone,HS370W,h3w,,1
+Parrot,Anafi,anf,,3
+Parrot,ANAFI THERMAL,anf,anf.thm,3
+Parrot,ANAFI USA,anf,anf.usa,3
+Parrot,AR.Drone 2.0,ar2,,2
+Parrot,AR.Drone,ard,,1
+Parrot,BEBOP 2,bb2,,2
+Parrot,BEBOP ,bbp,,2
+Parrot,Disco FPV,dsc,,2
+Parrot,Mambo Fly,mmb,mmb.fly,2
+Parrot,Mambo FPV,mmb,mmb.fpv,2
+Parrot,Mambo,mmb,,2
+Parrot ,Bluegrass,blg,,2
+potensic,T25,t25,,2
+PowerVision,Power Egg,peg,,1
+PRODRONE,PDH-03,pd3,,1
+PRODRONE,PD8X,pd8,,1
+PRODRONE,PD-FG1,pdf1,,1
+QYSEA,FIFISH V6,fv6,,1
+Rakuten,Rakuten Drone Tenku,rdt,,2
+senseFly,eBee Classic,ebc,,2
+senseFly,eBee Classic RTK,ebc,ebc.rtk,2
+senseFly,eBee GEO,ebg,,3
+senseFly,eBee GEO RTK,ebg,ebg.rtk,3
+senseFly,eBee SQ,ebs,,2
+senseFly,eBee X,ebx,,3
+senseFly,eBee X RTK,ebx,ebx.rtk,3
+Skydio,Skydio 2,sk2,,3
+Skydio,Skydio 1,sk1,,2
+Skydio,X2D,x2d,,2
+snaptain,H823H Plus,h8p,,1
+snaptain,SP650,sp6,,1
+SNAPTAIN,SNAPTAIN-S5C,sts,,1
+"Tech, rc",TR008,t0n,,1
+Yuneec,Typhoon Q500 4K,Ty5,,1
