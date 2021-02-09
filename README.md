@@ -13,7 +13,7 @@
 
 ## 使用方法
 * [こちらのリスト](https://github.com/dronebird/DroneShortNameList4DRONEBIRD/blob/main/DroneShortNameList4DRONEBIRD_v10.csv)から確認
-* CSVファイルをダウンロードして自由にお使いください。ライセンスは下記のとおり。
+* [CSVファイル](https://raw.githubusercontent.com/dronebird/DroneShortNameList4DRONEBIRD/main/DroneShortNameList4DRONEBIRD_v10.csv)をダウンロードして自由にお使いください。ライセンスは下記のとおり。
 
 
 ## 更新・提案方法
